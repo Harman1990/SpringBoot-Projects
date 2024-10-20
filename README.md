@@ -6,7 +6,6 @@ This is a ToDo application built using Spring Boot and Spring MVC with JSP for t
 ## Features
 - Add new tasks
 - Update existing tasks
-- Mark tasks as completed
 - Delete tasks
 - View a list of all tasks
 - User authentication with Spring Security
