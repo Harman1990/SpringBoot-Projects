@@ -1,7 +1,7 @@
 
 # ToDo Application - Spring Boot & Spring MVC
 
-This is a simple ToDo application built using Spring Boot and Spring MVC with JSP for the user interface, allowing users to manage their tasks efficiently. The application supports functionalities such as task creation, viewing, updating, and deletion.
+This is a ToDo application built using Spring Boot and Spring MVC with JSP for the user interface, allowing users to manage their tasks efficiently. The application supports functionalities such as task creation, viewing, updating, and deletion. It also includes responsive design using Bootstrap for improved UI/UX.
 
 ## Features
 - Add new tasks
@@ -10,6 +10,8 @@ This is a simple ToDo application built using Spring Boot and Spring MVC with JS
 - Delete tasks
 - View a list of all tasks
 - User authentication with Spring Security
+- Responsive design using Bootstrap
+- Reusable JSP fragments for consistent UI components
 
 ## Project Overview
 
@@ -24,6 +26,7 @@ This project follows a typical Spring Boot MVC architecture:
 - Spring Boot 3.3.3
 - Spring MVC
 - Spring Security
+- Bootstrap 4+
 
 ## Installation
 
