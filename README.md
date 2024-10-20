@@ -31,7 +31,7 @@ This project follows a typical Spring Boot MVC architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mywebapp.git
+   git clone https://github.com/Harman1990/SpringBoot-Projects.git
    ```
 
 2. Navigate to the project directory:
